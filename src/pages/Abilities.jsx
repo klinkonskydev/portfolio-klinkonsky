@@ -59,22 +59,10 @@ export function Abilities() {
         </div>
 
         <div className="card">
-
-          <div className="abilitie">
-            <div className="skill">
-              <p>Node JS</p>
-              <p>52%</p>
-            </div>
-
-            <div className="porcentage">
-              <div className="porcentage-node"></div>
-            </div>
-          </div>
-
           <div className="abilitie">
             <div className="skill">
               <p>React JS</p>
-              <p>32%</p>
+              <p>75%</p>
             </div>
 
             <div className="porcentage">
@@ -86,11 +74,22 @@ export function Abilities() {
 
             <div className="skill">
               <p>Typescript</p>
-              <p>22%</p>
+              <p>59%</p>
             </div>
 
             <div className="porcentage">
               <div className="porcentage-typescript"></div>
+            </div>
+          </div>
+
+          <div className="abilitie">
+            <div className="skill">
+              <p>Node JS</p>
+              <p>52%</p>
+            </div>
+
+            <div className="porcentage">
+              <div className="porcentage-node"></div>
             </div>
           </div>
 

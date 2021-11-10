@@ -6,6 +6,8 @@ import flexPainelIMG from '../assets/Screenshot/FlexPainel2.png'
 import devFinancesIMG from'../assets/Screenshot/devfinances.png'
 import clockIMG from'../assets/Screenshot/Clock.png'
 import calculadoraIMG from'../assets/Screenshot/calculadora.png'
+import jogodavelhaIMG from'../assets/Screenshot/jogodavelha.png'
+import filmariaIMG from'../assets/Screenshot/filmaria.png'
 
 export function Project() {
   return (
@@ -75,6 +77,26 @@ export function Project() {
 
           <div className="legend">
             <p className="project-text">Calculator - React JS</p>
+          </div>
+        </a>
+
+        <a href="https://klinkonskydev-jogodavelhav2.netlify.app/" className="project-container" target="_blank"  rel="noreferrer">
+          <div>
+            <img src={jogodavelhaIMG} alt="My Project" width="100%" height="200px"/>
+          </div>
+
+          <div className="legend">
+            <p className="project-text">Jogo da Velha - React JS</p>
+          </div>
+        </a>
+
+        <a href="https://klinkonskydev-filmora.netlify.app/" className="project-container" target="_blank"  rel="noreferrer">
+          <div>
+            <img src={filmariaIMG} alt="My Project" width="100%" height="200px"/>
+          </div>
+
+          <div className="legend">
+            <p className="project-text">Filmora - React JS</p>
           </div>
         </a>
 
