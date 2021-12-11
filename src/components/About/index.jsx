@@ -15,6 +15,9 @@ export function About() {
         I love turning ideas into real projects and also applying all my
         knowledge in what I'm doing.
         <br />
+        <br />
+        My knowledge: <br /> HTML, CSS, SCSS, REACT, TYPESCRIPT <br /> What am I
+        learning: <br /> NEXT JS, TDD
       </p>
 
       <S.CV>
