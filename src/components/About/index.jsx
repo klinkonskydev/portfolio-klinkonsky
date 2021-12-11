@@ -16,8 +16,9 @@ export function About() {
         knowledge in what I'm doing.
         <br />
         <br />
-        My knowledge: <br /> HTML, CSS, SCSS, REACT, TYPESCRIPT <br /> What am I
-        learning: <br /> NEXT JS, TDD
+        <strong>My knowledge</strong> : HTML, CSS, SCSS, REACT, TYPESCRIPT{" "}
+        <br />
+        <strong> What am I learning</strong>: NEXT JS, TDD
       </p>
 
       <S.CV>
