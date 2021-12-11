@@ -25,7 +25,7 @@ export function About() {
         <h1>Download my CV</h1>
 
         <a
-          href="https://www.mediafire.com/file/ze33azf4n7wuwdl/Resume+-+klinkonsky+pdf.pdf/file"
+          href="https://www.mediafire.com/file/ltpte5h4se2kpgk/resume+klinkonskydev.zip/file"
           target="_blank"
           rel="noreferrer"
         >
