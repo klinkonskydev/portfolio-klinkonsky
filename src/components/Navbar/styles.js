@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
   top: 2%;
   z-index: 2;
 
-  @media (max-width: 400px) {
+  @media (max-width: 500px) {
     top: 8px;
     right: 8px;
   }
@@ -70,7 +70,7 @@ export const Nav = styled.div`
   align-items: flex-start;
   background-color: #fff;
 
-  @media (max-width: 400px) {
+  @media (max-width: 500px) {
     height: 40px;
   }
 
@@ -106,7 +106,7 @@ export const Nav = styled.div`
 
     > img {
       width: 50px;
-      @media (max-width: 400px) {
+      @media (max-width: 500px) {
         width: 35px;
       }
     }

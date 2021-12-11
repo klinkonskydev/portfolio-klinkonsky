@@ -14,7 +14,7 @@ export const Wrapper = styled.section`
     text-align: center; 
     line-height: 2.5rem;
 
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
       text-align: left;
     }
   }

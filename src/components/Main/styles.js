@@ -59,7 +59,7 @@ export const Wrapper = styled.section`
     bottom: 50px;
     transition: 0.4s;
 
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
       left: 88%;
       bottom: 10px;
     }
@@ -133,7 +133,7 @@ export const TextContainer = styled.div`
   h1 {
     font: 600 3rem var(--font-family);
 
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
       text-align: left;
     }
   }
@@ -144,7 +144,7 @@ export const TextContainer = styled.div`
 
     margin-bottom: 2rem;
 
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
       text-align: left;
     }
   }
@@ -153,7 +153,7 @@ export const TextContainer = styled.div`
     font: 300 1.25rem var(--font-family);
     line-height: 2.7rem;
 
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
       text-align: left;
     }
   }
